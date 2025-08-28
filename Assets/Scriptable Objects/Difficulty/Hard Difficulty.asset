@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 746c3144ba1e0c940880358bf4d70fc2, type: 3}
+  m_Name: Hard Difficulty
+  m_EditorClassIdentifier: 
+  tilePoints: 30
+  tileTypes:
+  - {fileID: 11400000, guid: 8f96c565518f07e4d83018e3ee2d0acc, type: 2}
+  - {fileID: 11400000, guid: 4a56c7e8c25fa6d4cbf3865573565a41, type: 2}
+  - {fileID: 11400000, guid: f1a2fa99ece61a84ca3d6a6e75c1b427, type: 2}
+  - {fileID: 11400000, guid: c81dfde7b641e39459e7688415b88786, type: 2}
+  - {fileID: 11400000, guid: d9f8802833b6eca4daf85658067e55cf, type: 2}
+  - {fileID: 11400000, guid: 76b3c571e6dc3f94982cae3679ec3d03, type: 2}
+  - {fileID: 11400000, guid: d8dd5826fc7acf64cba46b5a55ab53ca, type: 2}
